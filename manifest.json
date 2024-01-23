@@ -1,4 +1,5 @@
 {
+ "start_url": "index.htm",
  "display": "fullscreen",
  "theme_color": "#FFFFFF",
  "name": "CASA OLIVIA BIANCO",
@@ -39,6 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
- "start_url": "index.htm"
+ "background_color": "#FFFFFF"
 }
